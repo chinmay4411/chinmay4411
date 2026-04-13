@@ -31,17 +31,6 @@
 ### 🤖 AI / ML / Data
 `OpenCV` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
----
-
-## 💼 Experience
-
-### 🏢 Full Stack Developer Intern – Cognify Technology Pvt. Ltd.
-- Built scalable web apps using **React, Node.js, Express, MongoDB**
-- Developed REST APIs for authentication & data handling
-- Worked in Agile environment with Git & GitHub
-- Optimized performance & deployment processes
-
----
 
 ## 🚀 Featured Projects
 
@@ -69,11 +58,28 @@
 
 ---
 
+🌿 AI Plant Disease Detection System 2026
+
+– Developed an AI-powered system to detect plant diseases from leaf images using CNN and MobileNetV2.
+– Utilized deep learning techniques for accurate multi-class classification on PlantVillage dataset (50K+ images).
+– Built a Streamlit-based web interface for real-time prediction with confidence scores and disease insights.
+– Implemented TensorFlow Lite conversion for mobile deployment and offline usage.
+– Integrated features like multilingual support (English/Marathi) and voice output for better accessibility.
+– Aims to assist farmers in early disease detection and effective crop management.
+
+
 ### 🎥 Emotion Detection System
 - Real-time facial emotion detection using OpenCV & ML
 - Webcam-based analysis system
 
----
+ ###  AI Sports Performance Assessment System 2026
+– Developing an AI-powered system to analyze player performance using computer vision and machine learning
+techniques.
+– Utilizing OpenCV and deep learning models for real-time movement tracking and performance evaluation.
+– Designed dashboards to visualize player metrics, strengths, and improvement areas.
+– Integrating FastAPI backend with React frontend for scalable and real-time analytics.
+– Aims to assist coaches in decision-making and personalized training recommendations.
+
 
 ## 📊 GitHub Stats
 
