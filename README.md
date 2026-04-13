@@ -31,55 +31,48 @@
 ### 🤖 AI / ML / Data
 `OpenCV` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
+---
 
 ## 🚀 Featured Projects
 
 ### 🧠 AI Sports Performance Assessment System (Capstone)
-- AI-based system for analyzing player performance using Computer Vision
-- Real-time tracking using OpenCV & deep learning
-- Dashboard for performance insights & coaching decisions
-- Tech: React + FastAPI + ML Models
+– Developed an AI-powered system to analyze player performance using Computer Vision and ML  
+– Implemented real-time tracking using OpenCV and deep learning models  
+– Designed dashboards for performance insights and improvement tracking  
+– Integrated FastAPI backend with React frontend for scalable analytics  
+– Aims to assist coaches in decision-making and personalized training  
+
+---
+
+### 🌿 AI Plant Disease Detection System
+– Developed an AI-powered system using CNN & MobileNetV2 for disease detection  
+– Trained on PlantVillage dataset (50K+ images) for multi-class classification  
+– Built a Streamlit app for real-time prediction with confidence scores  
+– Converted model to TensorFlow Lite for mobile/offline deployment  
+– Added multilingual support (English/Marathi) and voice output  
 
 ---
 
 ### 💙 ChillSaathi – AI Mental Wellness Platform
-- Full-stack app with chatbot, mood tracker & journaling
-- Integrated Gemini AI for smart conversations
-- Secure authentication with MongoDB
-- Clean & responsive UI
+– Built a full-stack mental wellness app with chatbot, mood tracker & journaling  
+– Integrated Gemini AI for intelligent conversations  
+– Implemented authentication and user data storage using MongoDB  
+– Designed clean, responsive UI for better user experience  
 
 ---
 
-### 💰 Smart Investment Planner (AI Project)
-- ML-based investment recommendation system
-- Used Scikit-learn for predictions
-- Integrated LLM (Ollama) for explainable insights
-- SQL-based data storage
+### 💰 Smart Investment Planner
+– Developed ML-based investment recommendation system  
+– Used Scikit-learn for predictions and analysis  
+– Integrated LLM (Ollama) for explainable financial insights  
+– Managed structured data using SQL  
 
----
-
-🌿 AI Plant Disease Detection System 2026
-
-– Developed an AI-powered system to detect plant diseases from leaf images using CNN and MobileNetV2.
-– Utilized deep learning techniques for accurate multi-class classification on PlantVillage dataset (50K+ images).
-– Built a Streamlit-based web interface for real-time prediction with confidence scores and disease insights.
-– Implemented TensorFlow Lite conversion for mobile deployment and offline usage.
-– Integrated features like multilingual support (English/Marathi) and voice output for better accessibility.
-– Aims to assist farmers in early disease detection and effective crop management.
 ---
 
 ### 🎥 Emotion Detection System
-- Real-time facial emotion detection using OpenCV & ML
-- Webcam-based analysis system
----
+– Built real-time facial emotion detection using OpenCV and ML  
+– Implemented webcam-based emotion recognition pipeline  
 
- ###  AI Sports Performance Assessment System 2026
-– Developing an AI-powered system to analyze player performance using computer vision and machine learning
-techniques.
-– Utilizing OpenCV and deep learning models for real-time movement tracking and performance evaluation.
-– Designed dashboards to visualize player metrics, strengths, and improvement areas.
-– Integrating FastAPI backend with React frontend for scalable and real-time analytics.
-– Aims to assist coaches in decision-making and personalized training recommendations.
 ---
 
 ## 📊 GitHub Stats
@@ -98,9 +91,9 @@ techniques.
 ---
 
 ## 🏆 Achievements & Activities
-- 🎖 NCC C Certificate Cadet
-- 🎨 Design Team Lead (Posters, Handbook, Creative Assets)
-- 🏐 Represented college in Kabaddi & Volleyball
+- 🎖 NCC C Certificate Cadet  
+- 🎨 Design Team Lead (Posters, Handbook, Creative Assets)  
+- 🏐 Represented college in Kabaddi & Volleyball  
 
 ---
 
@@ -122,6 +115,5 @@ techniques.
 
 ---
 
-##  Profile Views
-
+## 👀 Profile Views
 ![Visitors](https://komarev.com/ghpvc/?username=chinmay4411&color=blue)
