@@ -66,11 +66,12 @@
 – Implemented TensorFlow Lite conversion for mobile deployment and offline usage.
 – Integrated features like multilingual support (English/Marathi) and voice output for better accessibility.
 – Aims to assist farmers in early disease detection and effective crop management.
-
+---
 
 ### 🎥 Emotion Detection System
 - Real-time facial emotion detection using OpenCV & ML
 - Webcam-based analysis system
+---
 
  ###  AI Sports Performance Assessment System 2026
 – Developing an AI-powered system to analyze player performance using computer vision and machine learning
@@ -79,7 +80,7 @@ techniques.
 – Designed dashboards to visualize player metrics, strengths, and improvement areas.
 – Integrating FastAPI backend with React frontend for scalable and real-time analytics.
 – Aims to assist coaches in decision-making and personalized training recommendations.
-
+---
 
 ## 📊 GitHub Stats
 
